@@ -1,0 +1,7 @@
+font-family: 'Playfair Display', serif;
+font-family: 'Oswald', sans-serif;
+
+
+-------------------
+gray color code = #626262
+gold color code = #b4ad9e
